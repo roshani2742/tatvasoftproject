@@ -1,0 +1,189 @@
+.img1
+{
+    margin-left: 100px;
+}
+.div1
+{
+    margin: 15px;
+    margin-right: 80px;
+    
+    
+}
+.div3
+{
+height: 40px;
+border: lightgray;
+width: 422px;
+color: rgb(33,33.33);
+border-radius: 5%;
+
+
+
+}
+.div2
+{
+    margin-left: 350px;
+   
+
+}
+
+.div4
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #80BF32;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+}
+
+.div5
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+}
+.div6
+{
+    color: black;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+.div7
+{
+    
+    height: 45px;
+    font-size: small;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: white;
+    border: 0px;
+    width: 90px;
+    
+    width: 100px;
+}
+
+.div8
+{ 
+    height: 40px;
+    width: 300px;
+    color: reg(65,65,65);
+}
+.div9
+{
+    margin-left: 800px;
+}
+.div10
+{
+    font-size: 14px,roboto;
+    color: #212121;
+}
+.div10
+{
+    margin-top: 40px;
+     margin-left: 89px;
+     border-collapse: collapse;
+     margin-right: 150px;
+     width: 89%;
+}
+
+td
+{
+    border-bottom: solid 1px;
+     border-color:#ddd5d5;
+      font-size: 14px; color: #212121;
+       padding-top: 20px; 
+       padding-bottom: 20px;
+    }
+
+.div11
+{
+    padding-left: 115px;
+    font-size: 14px;
+}
+
+.div12
+{
+    padding-left: 115px;
+    font-size: 14px;
+
+}
+
+.div13
+{
+    padding-left: 200.5px;
+    font-size: 14px;
+}
+
+.div14
+{
+    padding-left: 340px;
+    font-size: 14px;
+}
+
+.edit-btn
+{
+     width: 80px;
+     height: 30px;
+     color: #80bf32;
+     border-color: #80bf32;
+     background-color: white;
+     border-radius: 3px;
+}
+
+.delete-btn
+{
+    width: 80px;
+    height: 30px;
+    color: #f14d54;
+    border-color: #f14d54;
+    background-color: white; 
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+.div15
+{
+    margin-top: 28px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    margin-left: 950px;
+    padding-left: 10px;
+    color: #212121; 
+}
+        
+.pn
+{
+    text-decoration: none;
+    color:#212121;
+     margin-left: 25px;
+}
+.div16
+{ 
+    margin-left: 10px;
+}
+
+.div21
+{
+    background-color: lightgray;
+    margin-top: 80px;
+    height: 200px;
+}
+.div22
+{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.div23
+{
+    margin-left: 570px;
+    color: grey;
+}

@@ -1,0 +1,125 @@
+.img1
+{
+    margin-left: 100px;
+}
+.div1
+{
+    margin: 15px;
+    margin-right: 80px;
+    
+    
+}
+.div3
+{
+height: 40px;
+border: lightgray;
+width: 422px;
+color: rgb(33,33.33)
+
+
+
+}
+.div2
+{
+    margin-left: 350px;
+
+}
+
+.div4
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #80BF32;
+    color: white;
+    border: 0px;
+    width: 90px;
+}
+
+.div5
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: white;
+    border: 0px;
+    width: 90px;
+    
+}
+
+.div7
+{
+    color: black;
+    margin-left: 600px;
+    
+    margin-top: 50px;
+
+}
+.div8
+{
+    display: flex;
+    margin-top: 75px;
+    color: #414141;
+    margin-left: 340px;
+    
+}
+ .div9
+ {
+     margin-left: 330px;
+ }
+ .div10
+ {
+     width: 720px;
+     height: 149.2px;
+     border-radius: 10px;
+     border-color: #e6e6e6;
+     display: flex;
+     box-shadow:  0 1px 4px 0 rgba(0,0,0,0.5);
+     margin-left: 320px ;
+     
+ }
+ .div13
+ {
+     display: flex;
+     margin-left: 10px;
+     width: 20px;
+     height: 20px;
+     margin-top: 5px;
+ }
+ .div11
+ {
+     margin-left: 15px;
+    
+ }
+ .div14
+ {
+     margin-left: 290px;
+ }
+ .fa fa-shopping-cart
+ {
+     color: red;
+ }
+ .div12
+ {
+     margin-left: 80px;
+ }
+ .div15
+{
+    background-color: lightgray;
+    
+    height: 200px;
+    
+    margin-top: 50px;
+}
+.div16
+{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.div17
+{
+    margin-left: 570px;
+    color: grey;
+
+}

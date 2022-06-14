@@ -1,0 +1,154 @@
+.img1
+{
+    margin-left: 100px;
+}
+.div1
+{
+    margin: 15px;
+    margin-right: 80px;
+    
+    
+}
+.div3
+{
+height: 40px;
+border: lightgray;
+width: 422px;
+color: rgb(33,33.33);
+border-radius: 5%;
+
+
+
+}
+.div2
+{
+    margin-left: 350px;
+   
+
+}
+
+.div4
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #80BF32;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+}
+
+.div5
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+    
+}
+.div6
+{
+    margin-left: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.div7
+{
+    color: black;
+    margin-left: 500px;
+    margin-bottom: 75px;
+
+}
+.div10
+{
+display: flex;
+margin-top: 20px;
+}
+.div9
+{
+    
+    margin-left: 89px;
+    width: 150px;
+}
+.div8
+
+{
+    margin-left: 400px;
+    width: 150px;
+}
+.div11
+{
+    width: 530px;
+height: 40px;
+margin-top: 15px;
+}
+.div12
+{
+    width: 530px;
+height: 40px;
+margin-top: 15px;
+}
+.div14
+{
+    margin-top: 40px;
+    font-size: small;
+    margin-left: 89px;
+}
+.div13
+{
+    width: 1080px;
+    height: 40px;
+
+}
+.div16
+{
+    display: flex;
+}
+.div17
+{
+    margin-left: 89px;
+    width: 150px;
+}
+.div18
+{
+    margin-left: 400px;
+    width: 150px;
+}
+.div19
+{
+    width: 530px;
+    height: 40px;
+    margin-top: 15px;
+}
+.div20
+{
+    width: 136px;
+    height: 45px;
+    background-color: #f14d54;
+    font-size: medium;
+    color: white;
+    border: none;
+    margin-left: 89px;
+}
+
+.div21
+{
+    background-color: lightgray;
+    margin-top: 80px;
+    height: 200px;
+}
+.div22
+{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.div23
+{
+    margin-left: 570px;
+    color: grey;
+}

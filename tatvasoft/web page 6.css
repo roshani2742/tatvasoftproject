@@ -1,0 +1,155 @@
+.img1
+{
+    margin-left: 100px;
+}
+.div1
+{
+    margin: 15px;
+    margin-right: 80px;
+    
+    
+}
+.div3
+{
+height: 40px;
+border: lightgray;
+width: 422px;
+color: rgb(33,33.33);
+border-radius: 5%;
+
+
+
+}
+.div2
+{
+    margin-left: 350px;
+   
+
+}
+
+.div4
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #80BF32;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+}
+
+.div5
+{
+    height: 40px;
+    font-size: 16px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: white;
+    border: 0px;
+    width: 90px;
+    border-radius: 5%;
+}
+.div6
+{
+    color: black;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.div7
+{
+    font-size: 18px,roboto;
+    color: #414141;
+    margin-top: 50px;
+    margin-left: 89px;
+    
+}
+
+.div9
+{
+    
+    margin-left: 600px;
+    margin-top: 40px;
+    height: 40px;
+}
+.div8
+{
+    display: flex;
+    margin-top: 50px;
+}
+.div10
+{
+    width: 227.67px;
+    height: 590px;
+    border-radius: 1px;
+    margin-left: 89px;
+    margin-top: 45px;
+    border-color: #414141;
+    box-shadow:  0 1px 4px 0 rgba(0,0,0,0.2);
+    border-radius: 9px;
+    
+}
+.div11
+{
+    width: 207.67px;
+    height: 40px;
+    background-color: #f14d54;
+    border: none;
+    color: white;
+    border-radius: 5%;
+
+}
+.div12
+{
+    display: flex;
+    
+}
+.div13
+{
+    display: flex;
+    margin-top: 35px;
+}
+.div15
+{
+    background-color: lightgray;
+     height: 200px;
+     margin-top: 50px;
+}
+.div16
+{
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.div17
+{
+    margin-left: 570px;
+    color: grey;
+
+}
+.div14
+ {
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 500px;
+  }
+  
+  .div14 a
+   {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  .div14 a.div18 {
+    background-color: #f14d54;
+    color: white;
+    border-radius: 50%;
+  }
+  
+  .div14 a:hover:not(.active) 
+  {
+      background-color: #ddd;
+    }
+  
